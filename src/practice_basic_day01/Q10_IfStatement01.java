@@ -23,5 +23,7 @@ public class Q10_IfStatement01 {
         }
 
         scan.close();
+
+
     }
 }

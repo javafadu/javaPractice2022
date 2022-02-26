@@ -2,21 +2,34 @@ package practice_basic_day01;
 
 public class Q04_JavaVariable {
     public static void main(String[] args) {
-        // Initializing Variable  //variable baslangic degeri verme
-            int age = 32;
-            int temp = 52;  //temporary
-        System.out.println(age);
-        System.out.println("temp = " + temp);
+        // Initializing Variable
+        int age = 32;
+        int temp = 20;
+
+        System.out.println(age); //32
+        System.out.println(temp); //20
+
+        System.out.println("age = " + age); //age = 32
+        System.out.println("temp = " + temp); //temp = 20
+
 
         // To copy the variable's value
-            int myAge= 33;
-            int hisAge = age;
+        int myAge = 25;
+        int herAge = myAge;
+
+        System.out.println("myAge = " + myAge); //myAge = 25
+        System.out.println("herAge = " + herAge); //herAge = 25
 
         // you can declare multiple variables in the same line
-            int year = 2022,   month =3,  day =2;
+
+        int year = 2022, month = 10;
+
+        System.out.println("year = " + year); //year = 2022
 
         // updating a variable
-            year = 2032;
+        year = 2032;
+
+        System.out.println("after update year = " + year); //after update year = 2032
 
 
         //Bir degisken tanimlayin : x
@@ -24,15 +37,13 @@ public class Q04_JavaVariable {
         //x degiskenini initialize edin
         //y degiskenini yeni bir degerle guncelleyin
 
-        int x;
-        int y =20000;
-        x=123;
-        y= 234;
 
-        System.out.println("x = " + x);
-        System.out.println("y = " + y);
+        int x; // declare
+        int y = 20000; // initialize
+        x = 30; // initialized variable later
+        y = 1; // update variable value
 
-
-
+        System.out.println("x = " + x);  //30
+        System.out.println("y = " + y);  //1
     }
 }

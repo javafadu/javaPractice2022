@@ -7,19 +7,27 @@ public class Q08_Scanner01 {
     // bu tam sayilari toplayin ve sonucu yazdirin
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        System.out.print("Birinci sayi giriniz :");
-        int sayi1 = scan.nextInt();
 
-        System.out.print("Ikinci sayi giriniz :");
-        int sayi2 =scan.nextInt();
+        Scanner scanner = new Scanner(System.in);
 
-        int sum = sayi1 + sayi2;
+        System.out.print("Enter a number: ");
+        int number1 = scanner.nextInt();
 
-        System.out.println("sum = " + sum);
+        System.out.print("Enter a number: ");
+        int number2 = scanner.nextInt();
 
+        int sum = number1 + number2;
 
+        System.out.println(sum);
 
+        //dort islem sonucunu yazdiriniz.
+        System.out.println("Toplam: " + (number1+number2));
+        System.out.println("Fark: " + (number1-number2));
+        System.out.println("Carpim: " +(number1*number2));
+        System.out.println("Bolum: " + (number1/number2));
+
+        scanner.close();
     }
+
 
 }

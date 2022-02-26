@@ -2,6 +2,7 @@ package practice_basic_day01;
 
 public class Q03_PrimitiveDataTypes {
     public static void main(String[] args) {
+
         /*
          * Primitive data type
                 byte: only takes whole numbers
@@ -20,49 +21,35 @@ public class Q03_PrimitiveDataTypes {
 
         //byte, short, integer,long, double, float veri tiplerinin max ve min degerlerini yazdiralim.
 
-        byte byteMax = Byte.MAX_VALUE;
-        System.out.println("byteMax = " + byteMax);
-
-        byte byteMin = Byte.MIN_VALUE;
-        System.out.println("byteMin = " + byteMin);
-
-        short shortMax = Short.MAX_VALUE;
-        System.out.println("shortMax = " + shortMax);
-
-        short shortMin = Short.MIN_VALUE;
-        System.out.println("shortMin = " + shortMin);
-
-        int intMin = Integer.MIN_VALUE;
-        System.out.println("intMin = " + intMin);
-
         int intMax = Integer.MAX_VALUE;
-        System.out.println("intMax = " + intMax);
+        System.out.println("int Max: "  + intMax);
+        int intMin = Integer.MIN_VALUE;
+        System.out.println("int Min: " + intMin);
 
-        long longMin = Long.MIN_VALUE;
-        System.out.println("longMin = " + longMin);
-
-        //long, double, float veri tiplerinin max ve min degerlerini yazdiralim.
-
+        byte byteMax = Byte.MAX_VALUE;
+        System.out.println("Byte Max: " + byteMax );
+        byte byteMin = Byte.MIN_VALUE;
+        System.out.println("Byte Min: " + byteMin);
+        /*
+        int Max: 2147483647
+        int Min: -2147483648
+        Byte Max: 127
+        Byte Min: -128
+         */
 
         //Her veri turuyle bir tane olmak uzere 4 degisken olusturun (float, double, char, boolean)
         //Degiskenler icin anlamli isimler kullanip, yazdiralim
 
-        float  laptopFiyat = 9999.99F;
-        double kilometre =579.6;
-        char cinsiyet = 'E';
-        boolean dogruMu =true;
 
-    //   System.out.println(laptopFiyat);
-    //   System.out.println("laptopFiyat = " + laptopFiyat); //soutv yazinca bu sekilde cikiyor
-    //   System.out.println(kilometre);
-    //   System.out.println(cinsiyet);
-    //   System.out.println(dogruMu);
-        /*
-        coklu yorum satiri
-         */
+        float laptopFiyat = 999.99f;
+        double kilometre = 578.35;
+        char seviye = 'A';
+        boolean uygunMu = true;
 
-        System.out.println(laptopFiyat +"," + kilometre + "," + cinsiyet + "," + dogruMu);
-
+        System.out.println("laptopFiyat: " + laptopFiyat); //laptopFiyat: 999.99
+        System.out.println("kilometre: " + kilometre); //kilometre: 578.35
+        System.out.println("seviye: " + seviye);  //seviye: A
+        System.out.println("uygunMu: " + uygunMu); //uygunMu: true
     }
 
 }

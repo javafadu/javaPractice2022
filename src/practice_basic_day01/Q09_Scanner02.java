@@ -11,34 +11,37 @@ public class Q09_Scanner02 {
     // nextLine() can read the whole line
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
 
-        System.out.print("isminiz :");
-        String isim =scan.nextLine();
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.print("memleketiniz :");
-        String memleket =scan.nextLine();
+        System.out.print("What is your name? -> ");
+        String name = scanner.nextLine();
 
-        System.out.print("konumunuz :");
-        String konum =scan.nextLine();
+        System.out.print("Where is your hometown? -> ");
+        String hometown = scanner.nextLine();
 
-        System.out.print("yasiniz :");
-        byte yas =scan.nextByte();
+        System.out.print("Where do you live? -> ");
+        String placeTheyLive = scanner.nextLine();
 
-        System.out.print("boyunuz :");
-        short boy = scan.nextShort();
+        System.out.print("How old are you? -> ");
+        byte age = scanner.nextByte();
 
-        System.out.print("yasadiginiz " + konum +" u seviyor musunuz? true/false");
-        boolean seviyorMu = scan.hasNextBoolean();
+        System.out.print("Height? -> ");
+        short height = scanner.nextShort();
 
-        System.out.println("*****************************");
-        System.out.println("isim = " + isim);
-        System.out.println("memleket = " + memleket);
-        System.out.println("konum = " + konum);
-        System.out.println("yas = " + yas);
-        System.out.println("boy = " + boy);
-        System.out.println("yasadiginiz yeri seviyor musunuz = " + seviyorMu);
+        System.out.print("You like " + placeTheyLive + "? -> ");
+        boolean likePlaceTheyLive = scanner.nextBoolean();
+
+        System.out.println("-------------------------");
+
+        System.out.println("Name: " + name);
+        System.out.println("Hometown: " + hometown);
+        System.out.println("Place they live: " + placeTheyLive);
+        System.out.println("Age: " + age);
+        System.out.println("Height: " + height);
+        System.out.println("You like where you live: " + likePlaceTheyLive);
+
+        // if you use nextLine right after nextInt - nextLine will be skipped
+
     }
-
-
 }
