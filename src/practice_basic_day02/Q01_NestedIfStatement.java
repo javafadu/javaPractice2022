@@ -21,18 +21,20 @@ public class Q01_NestedIfStatement {
         int age = scan.nextInt();
 
         if (age >= 18) {
-            System.out.println("yasi oy kullanmaya uygundur");
-            if (age >= 70){ //age >= 70
+            if (age >= 70) { // age >= 70
+                System.out.println("oy kullanmaya uygun");
                 System.out.println("uc kez oy kullanabilir");
-            }else if(age>=50) {  //70 > age >=50
+            } else if (age >= 50) {  // 70>age >=50
+                System.out.println("oy kullanmaya uygun");
                 System.out.println("iki kez oy kullanabilir");
-            }else { //50 > age >=18
+            } else {  // age < 50
+                System.out.println("oy kullanmaya uygun");
                 System.out.println("bir kez oy kullanabilir");
             }
-        }else if(age>0 && age<18){
-            System.out.println("yasi oy kullanmaya uygun degildir");
-        }else
-            System.out.println("hatali giris yaptiniz...");
+        } else {
+            System.out.println("yasiniz oy kullanmaya uygun degildir..");
+        }
+
     }
 }
 

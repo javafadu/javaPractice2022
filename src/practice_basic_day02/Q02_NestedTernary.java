@@ -11,17 +11,25 @@ public class Q02_NestedTernary {
      */
 
     public static void main(String[] args) {
+        char FinalGrade = 'C';
+        String Group = "";
 
-        char finalNotu = 'B';
+        Group = (FinalGrade == 'A') ? "Gayet Basarili"
+                : (FinalGrade == 'B') ? "Basarili"
+                : (FinalGrade == 'C') ? "Ha gayret"
+                : "Digerleri..";
 
-        // String result ="";
+        System.out.println(Group);
 
-        String result = (finalNotu == 'A') ? "Gayet Basarili" :
-                (finalNotu == 'B') ? "Basarili" :
-                        (finalNotu == 'C') ? "Ha gayret" : "Digerleri..";
-
-        System.out.println("result = " + result);
-
+        if (FinalGrade == 'A') {
+            Group = "Gayet Basarili";
+        } else if (FinalGrade == 'B') {
+            Group = "Basarili";
+        } else if (FinalGrade == 'C') {
+            Group = "Ha gayret";
+        } else {
+            Group = "Digerleri..";
+        }
 
     }
 }
