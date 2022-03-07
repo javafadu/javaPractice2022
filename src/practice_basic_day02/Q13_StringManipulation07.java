@@ -11,16 +11,6 @@ public class Q13_StringManipulation07 {
      * xyaz   ==   false
      */
     public static void main(String[] args) {
-        String str = "abcdxyzm";
-        boolean xyzIceriyorMu=false;
-        if (str.contains("xyz")) {
-            xyzIceriyorMu=true;
-            System.out.println(xyzIceriyorMu);
-        } else {
-            xyzIceriyorMu=false;
-            System.out.println(xyzIceriyorMu);
-        }
 
-        // bu sorunun cozumunu basit sekilde paylastim... method creation ile cozmenizi istiyorum, sonra paylasacagim..
     }
 }
