@@ -1,0 +1,282 @@
+[33mcommit 33b91e2dbfc9607b667d9fddb735dd69a205c5a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: javafadu <javafadu@gmail.com>
+Date:   Wed Mar 30 18:11:35 2022 +0300
+
+    Proje1 icin yukledigim dosyalar 29mar
+
+[33mcommit a684016e76e8a2e372385b98c3bfed4fa3e8c9ef[m
+Merge: c86e96a 63f9f2f
+Author: javafadu <javafadu@gmail.com>
+Date:   Wed Mar 30 18:01:07 2022 +0300
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       .idea/misc.xml
+    #       out/production/javaPractice2022/practice_basic_day05/BookClass.class
+    #       out/production/javaPractice2022/practice_basic_day05/Constructor_ThisKeyword.class
+    #       out/production/javaPractice2022/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.class
+    #       out/production/javaPractice2022/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.class
+    #       src/practice_basic_day05/BookClass.java
+
+[33mcommit c86e96a51c7124398f9e4f3aeffc521a754ee865[m
+Author: javafadu <javafadu@gmail.com>
+Date:   Wed Mar 30 17:52:38 2022 +0300
+
+    Practice i kendi javafadu ya upload ediyorum
+
+[33mcommit 63f9f2fc2e81b6b7df06617f2e3d575d9749d7fe[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Wed Mar 30 14:24:46 2022 +0300
+
+    30.03.22
+
+[33mcommit ca8815c36a213d041863e5ef455bc6b365d4fbc2[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Wed Mar 30 14:22:33 2022 +0300
+
+    30.03.22
+
+[33mcommit de9b195ab59e4878f46c6d1031c0a3faa0b911ce[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 28 19:56:04 2022 +0300
+
+    28.03.22
+
+[33mcommit af9a107492295fd5a29c775852dd9e2e84b8006e[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 28 18:29:50 2022 +0300
+
+    28.03.22
+
+[33mcommit 10c221aac4bf2cf7cc79994bd662c9021ccb6f3a[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 28 15:39:01 2022 +0300
+
+    28.03.22
+
+[33mcommit 1263935a60600888e39a773d363caf17431749b2[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 28 14:21:37 2022 +0300
+
+    28.03.22
+
+[33mcommit 5a30722149373272bf2d8cc5db94ae37fa4c7a90[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 28 13:29:52 2022 +0300
+
+    28.03.22
+
+[33mcommit a1ab436a22a85018769e7a497539eff95a5ff5cf[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sun Mar 27 12:52:02 2022 +0300
+
+     27.03.22
+
+[33mcommit 1d2edc56bdc41647302873ac63b7922b165c26f7[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sat Mar 26 20:21:47 2022 +0300
+
+     26.03.22
+
+[33mcommit 608bddee5d68d33974aa2a3ab1fce53a29762993[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sat Mar 26 20:17:27 2022 +0300
+
+     26.03.22
+
+[33mcommit cf5b9288e4d4f0035b9b337dd82bd57f4e1d05b0[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sat Mar 26 20:00:23 2022 +0300
+
+     26.03.22
+
+[33mcommit 16c29ad1c8a59fc97b1f4e0b5b654c85f1a3faac[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Fri Mar 25 21:07:58 2022 +0300
+
+     25.03.22
+
+[33mcommit e36ed7a814ccae601519318d6e87b0bca0060160[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Thu Mar 24 20:05:41 2022 +0300
+
+     24.03.22
+
+[33mcommit fc7e3925f96eb6793c91fff3d55e8cc055c7b7e9[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Thu Mar 24 13:38:41 2022 +0300
+
+     24.03.22
+
+[33mcommit ff7bf9f1bde3543aa069fc9a09676cedd418c71a[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Thu Mar 24 13:14:24 2022 +0300
+
+     24.03.22
+
+[33mcommit aa46d105401ca6a788e3945f1d94a3de0a864c50[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Thu Mar 24 00:02:13 2022 +0300
+
+     23.03.22
+
+[33mcommit 1d323c0067ed2e3eefeaa4e1b0ba3694103965de[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Wed Mar 23 19:52:07 2022 +0300
+
+     23.03.22
+
+[33mcommit ea474c04b69562e357f2fa3e399296c7213950f3[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Wed Mar 23 19:50:55 2022 +0300
+
+     23.03.22
+
+[33mcommit ac0c2e6612172fd76ef44ca15225ed574a59449a[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Tue Mar 22 19:54:48 2022 +0300
+
+     22.03.22
+
+[33mcommit 8a45c5f95104acce90352a3295f044ec25d8e834[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Tue Mar 22 17:22:01 2022 +0300
+
+     22.03.22
+
+[33mcommit 6d2d51136704c1f2533d07717bf87ed004b4fdec[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 21 19:59:44 2022 +0300
+
+     21.03.22
+
+[33mcommit e02bc7720fe2a67baf5a73cb83c13fc568b4f1ca[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 21 14:31:32 2022 +0300
+
+     21.03.22
+
+[33mcommit 31a03d86ca387a1f85fce9afc34be2d7405ae2cc[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sat Mar 19 15:40:47 2022 +0300
+
+     19.03.22
+
+[33mcommit 087551b7d269f5a284ced76ca765dd56ff55a7e0[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Fri Mar 18 19:20:38 2022 +0300
+
+     18.03.22
+
+[33mcommit 1fbc0949928a1980daf16b0df9cdcec9b4fc9e2d[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Fri Mar 18 17:06:09 2022 +0300
+
+     18.03.22
+
+[33mcommit efd9e07d7279688d051243aa9854fedab691ea45[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Fri Mar 18 17:02:05 2022 +0300
+
+     18.03.22
+
+[33mcommit acf8e26d6516f174ba256f8647c218cb709b68b9[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Fri Mar 18 16:47:32 2022 +0300
+
+     18.03.22
+
+[33mcommit d4d0c8a80a5834e709b46fcedb9e8fa80862cf49[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Fri Mar 18 16:43:52 2022 +0300
+
+     18.03.22
+
+[33mcommit e5f508ed5c967f5402d90ce12bec4f4b97d118b1[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Tue Mar 15 20:46:51 2022 +0300
+
+     15.03.22
+
+[33mcommit 43e76a15a8bb0206f8b003973282dd9ff4106629[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 14 20:51:43 2022 +0300
+
+     14.03.22
+
+[33mcommit 0d2e84aa4c5f48e6317eb6dc3218aa06fabd9461[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sat Mar 12 13:29:18 2022 +0300
+
+     12.03.22
+
+[33mcommit 42328668f5fae80344836ad309d4ec2c281a53d9[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Wed Mar 9 20:41:11 2022 +0300
+
+    09.03.22
+
+[33mcommit f8161273122804d4d8eb018ff6f797b0a0d0058b[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 7 22:47:09 2022 +0300
+
+    07.03.22
+
+[33mcommit 744b27ccee8c59c7c237598ad93c1ab66ebc3790[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 7 20:55:59 2022 +0300
+
+    07.03.22
+
+[33mcommit 40e13c2ecabee923fe3067f656ce70062c29b1a8[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Mon Mar 7 14:44:25 2022 +0300
+
+    07.03.22
+
+[33mcommit f453a69a1b61381b6f28d1abf4f2deeb2094d549[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sun Mar 6 15:48:08 2022 +0300
+
+    06.03.22
+
+[33mcommit 1162b57715345f0134bad06bb40565d2905ca833[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sun Mar 6 01:16:58 2022 +0300
+
+    ignore
+
+[33mcommit 87679e2c737ca025df29000470ab38b6dfbff348[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sun Mar 6 01:13:50 2022 +0300
+
+    ignore
+
+[33mcommit f9de6ed0be10e5ebe833a47a5d475c62a829bf92[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sun Mar 6 01:04:11 2022 +0300
+
+    06.03.22
+
+[33mcommit 9a8dd7104dcfe670a0ae4bd3bf673c7084406fbd[m
+Author: Des_Abd_Wis <destiniyabidingwisdom@gmail.com>
+Date:   Sat Mar 5 00:14:59 2022 +0300
+
+    05.03.22
+
+[33mcommit 184c4397854f861173f802e4215b9d20582ee2a5[m
+Author: serefahmet21 <serefahmet21@gmail.com>
+Date:   Wed Mar 2 20:57:07 2022 +0300
+
+    02.02.22
+
+[33mcommit a24577f5150754c8492c3cb66ce937d458a1def4[m
+Author: serefahmet21 <serefahmet21@gmail.com>
+Date:   Wed Mar 2 00:27:38 2022 +0300
+
+    02.03.22
+
+[33mcommit a1d65cdf3c0ef0a321a1560760470102e75ecdba[m
+Author: serefahmet21 <serefahmet21@gmail.com>
+Date:   Mon Feb 28 1
